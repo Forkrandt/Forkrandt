@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forkrandt)](https://github.com/Forkrandt/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Forkrandt)](https://git.io/streak-stats)
 [![codewars](https://www.codewars.com/users/Forkrandt/badges/large)](https://www.codewars.com/users/Forkrandt)
 
 ![](https://komarev.com/ghpvc/?username=Forkrandt)
