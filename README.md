@@ -4,7 +4,8 @@
 [![codewars](https://www.codewars.com/users/Forkrandt/badges/large)](https://www.codewars.com/users/Forkrandt)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Forkrandt&theme=solarized_dark)
 ![](https://komarev.com/ghpvc/?username=Forkrandt)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Forkrandt)](https://github.com/Forkrandt/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=forkrandt)](https://github.com/forkrandt/leetcode-stats)
+
 <!--
 **Forkrandt/Forkrandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
